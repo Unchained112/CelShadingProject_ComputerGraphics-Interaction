@@ -1,0 +1,2 @@
+C:\Users\abc\OneDrive\KTH\DH2323\Project_BosenCheng\PathTracingCelShading\Debug\PathTracingCelShading.exe
+C:\Users\abc\OneDrive\KTH\DH2323\Project_BosenCheng\PathTracingCelShading\Debug\PathTracingCelShading.pdb
